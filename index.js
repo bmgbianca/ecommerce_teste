@@ -17,10 +17,13 @@ app.use('/', router);
 
 const conectarMongoDB = async () => {
   try {
-    await mongoose.connect(process.env.URL, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-    });
+    await mongoose.connect(
+      'mongodb+srv://biancamg:juliecatie@cluster0.dxo6t.mongodb.net/ecommerce?retryWrites=true&w=majority',
+      {
+        useNewUrlParser: true,
+        useUnifiedTopology: true,
+      }
+    );
     console.log('Conectado ao banco de dados no MongoDB');
   } catch (error) {
     console.log('Erro de conexão com o MongoDB');
@@ -30,7 +33,7 @@ const conectarMongoDB = async () => {
 
 app.listen(process.env.PORT || 8080, async () => {
   try {
-    conectarMongoDB();
+    await conectarMongoDB();
     const databaseContent = await products.find();
     if (databaseContent.length === 0) {
       let productsData = await fs.readFile('./products.json');

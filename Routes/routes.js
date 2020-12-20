@@ -5,18 +5,6 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-(async () => {
-  try {
-    await mongoose.connect(process.env.URL, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-    });
-  } catch (error) {
-    console.log('Erro de conexão com o MongoDB: ' + error);
-    process.exit();
-  }
-})();
-
 export const router = express.Router();
 
 router.get('/:limit/:page', async (req, res, next) => {
