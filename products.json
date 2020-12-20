@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "name": "Jogo de lençol microfibra toque aveludado Telis",
+      "type": "Solteiro",
+      "color": "azul",
+      "original_price": 79.9,
+      "discount_price": 69.9,
+      "main_image": "./products_images/microfibra_telis_azul_main.jpg",
+      "image_2": "./products_images/microfibra_telis_azul_2.jpg",
+      "image_3": "./products_images/microfibra_telis_azul_3.jpg",
+      "image_4": "./products_images/microfibra_telis_azul_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol microfibra toque aveludado Telis",
+      "type": "Solteiro",
+      "color": "bege",
+      "original_price": 79.9,
+      "discount_price": 69.9,
+      "main_image": "./products_images/microfibra_telis_bege_main.jpg",
+      "image_2": "./products_images/microfibra_telis_bege_2.jpg",
+      "image_3": "./products_images/microfibra_telis_bege_3.jpg",
+      "image_4": "./products_images/microfibra_telis_bege_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol percal unique Liah",
+      "type": "Solteiro",
+      "color": "rosa",
+      "original_price": 129.9,
+      "discount_price": 99.9,
+      "main_image": "./products_images/percal_liah_main.jpg",
+      "image_2": "./products_images/percal_liah_2.jpg",
+      "image_3": "./products_images/percal_liah_3.jpg",
+      "image_4": "./products_images/percal_liah_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol percal unique Liah",
+      "type": "Casal",
+      "color": "rosa",
+      "original_price": 169.9,
+      "discount_price": 139.9,
+      "main_image": "./products_images/percal_liah_main.jpg",
+      "image_2": "./products_images/percal_liah_2.jpg",
+      "image_3": "./products_images/percal_liah_3.jpg",
+      "image_4": "./products_images/percal_liah_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol prata Venice",
+      "type": "Solteiro",
+      "color": "bege",
+      "original_price": 129.9,
+      "discount_price": 99.9,
+      "main_image": "./products_images/prata_venice_main.jpg",
+      "image_2": "./products_images/prata_venice_2.jpeg",
+      "image_3": "./products_images/prata_venice_3.jpg",
+      "image_4": "./products_images/prata_venice_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol prata Venice",
+      "type": "Casal",
+      "color": "bege",
+      "original_price": 169.9,
+      "discount_price": 139.9,
+      "main_image": "./products_images/prata_venice_main.jpg",
+      "image_2": "./products_images/prata_venice_2.jpeg",
+      "image_3": "./products_images/prata_venice_3.jpg",
+      "image_4": "./products_images/prata_venice_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol royal Boston",
+      "type": "Solteiro",
+      "color": "verde",
+      "original_price": 89.9,
+      "discount_price": 69.9,
+      "main_image": "./products_images/royal_boston_main.jpg",
+      "image_2": "./products_images/royal_boston_2.jpg",
+      "image_3": "./products_images/royal_boston_3.jpg",
+      "image_4": "./products_images/royal_boston_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol royal Boston",
+      "type": "Casal",
+      "color": "verde",
+      "original_price": 119.9,
+      "discount_price": 99.9,
+      "main_image": "./products_images/royal_boston_main.jpg",
+      "image_2": "./products_images/royal_boston_2.jpg",
+      "image_3": "./products_images/royal_boston_3.jpg",
+      "image_4": "./products_images/royal_boston_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol royal Boston",
+      "type": "King",
+      "color": "verde",
+      "original_price": 169.9,
+      "discount_price": 139.9,
+      "main_image": "./products_images/royal_boston_main.jpg",
+      "image_2": "./products_images/royal_boston_2.jpg",
+      "image_3": "./products_images/royal_boston_3.jpg",
+      "image_4": "./products_images/royal_boston_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol 100% algodão Magicolor Dijon",
+      "type": "Solteiro",
+      "color": "turquesa",
+      "original_price": 119.9,
+      "discount_price": 69.9,
+      "main_image": "./products_images/magicolor_dijon_main.jpg",
+      "image_2": "./products_images/magicolor_dijon_2.jpg",
+      "image_3": "./products_images/magicolor_dijon_3.jpg",
+      "image_4": "./products_images/magicolor_dijon_4.jpg"
+    },
+    {
+      "name": "Jogo de lençol 100% algodão Magicolor Dijon",
+      "type": "Queen",
+      "color": "turquesa",
+      "original_price": 199.9,
+      "discount_price": 119.9,
+      "main_image": "./products_images/magicolor_dijon_main.jpg",
+      "image_2": "./products_images/magicolor_dijon_2.jpg",
+      "image_3": "./products_images/magicolor_dijon_3.jpg",
+      "image_4": "./products_images/magicolor_dijon_4.jpg"
+    }
+  ]
+}
