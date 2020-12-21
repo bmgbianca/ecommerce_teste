@@ -1,5 +1,4 @@
 import express from 'express';
-import mongoose from 'mongoose';
 import { productModel as products } from '../Models/models.js';
 import dotenv from 'dotenv';
 

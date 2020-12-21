@@ -17,13 +17,10 @@ app.use('/', router);
 
 const conectarMongoDB = async () => {
   try {
-    await mongoose.connect(
-      'mongodb+srv://biancamg:juliecatie@cluster0.dxo6t.mongodb.net/ecommerce?retryWrites=true&w=majority',
-      {
-        useNewUrlParser: true,
-        useUnifiedTopology: true,
-      }
-    );
+    await mongoose.connect(process.env.DATABASE_URL, {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    });
     console.log('Conectado ao banco de dados no MongoDB');
   } catch (error) {
     console.log('Erro de conexão com o MongoDB');
