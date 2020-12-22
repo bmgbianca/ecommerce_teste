@@ -38,42 +38,6 @@ router.get('/:limit/:page', async (req, res, next) => {
   }
 });
 
-router.get('/:limit/:string', async (req, res, next) => {
-  try {
-    const newItemsPerPage = Number(req.params.limit);
-    const searchedString = req.params.string;
-    const regex = new RegExp(`.*${searchedString}.*`);
-    const fullSearchList = await products.find({
-      $or: [
-        {
-          name: { $regex: regex, $options: 'i' },
-        },
-        { type: { $regex: regex, $options: 'i' } },
-        { color: { $regex: regex, $options: 'i' } },
-      ],
-    });
-    const newListPerPage = [];
-    for (let i = 0; i < fullSearchList.length / newItemsPerPage; i++) {
-      const newList = await products
-        .find({
-          $or: [
-            {
-              name: { $regex: regex, $options: 'i' },
-            },
-            { type: { $regex: regex, $options: 'i' } },
-            { color: { $regex: regex, $options: 'i' } },
-          ],
-        })
-        .skip(newListPerPage.length * newItemsPerPage)
-        .limit(newItemsPerPage);
-      newListPerPage.push(newList);
-    }
-    res.send(newListPerPage);
-  } catch (err) {
-    next(err);
-  }
-});
-
 router.use((err, _req, res) => {
   res.status(err.status || 404).send(`Ocorreu um erro: ${err.message}`);
 });

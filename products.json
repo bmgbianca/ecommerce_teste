@@ -6,7 +6,7 @@
       "color": "azul",
       "original_price": 79.9,
       "discount_price": 69.9,
-      "main_image": "./products_images/microfibra_telis_azul_main.jpg",
+      "main_image": "./products_images/microfibra_telis_azul_main.webp",
       "image_2": "./products_images/microfibra_telis_azul_2.jpg",
       "image_3": "./products_images/microfibra_telis_azul_3.jpg",
       "image_4": "./products_images/microfibra_telis_azul_4.jpg"
@@ -51,7 +51,7 @@
       "original_price": 129.9,
       "discount_price": 99.9,
       "main_image": "./products_images/prata_venice_main.jpg",
-      "image_2": "./products_images/prata_venice_2.jpeg",
+      "image_2": "./products_images/prata_venice_2.jpg",
       "image_3": "./products_images/prata_venice_3.jpg",
       "image_4": "./products_images/prata_venice_4.jpg"
     },
@@ -120,6 +120,257 @@
       "image_2": "./products_images/magicolor_dijon_2.jpg",
       "image_3": "./products_images/magicolor_dijon_3.jpg",
       "image_4": "./products_images/magicolor_dijon_4.jpg"
+    },
+    {
+      "name": "Jogo de Lençol Percal Margot + Kit Colcha Piquet Filipa",
+      "type": "King",
+      "color": "verde/rosa",
+      "original_price": 948.9,
+      "discount_price": 790.9,
+      "main_image": "./products_images/percal_margot_main.jpg",
+      "image_2": "./products_images/percal_margot_2.jpg",
+      "image_3": "./products_images/percal_margot_3.jpg",
+      "image_4": "./products_images/percal_margot_4.jpg"
+    },
+    {
+      "name": "Kit Colcha Micromatelassê Velute + Jogo de Lençol Percal Margot",
+      "type": "Casal",
+      "color": "rosa",
+      "original_price": 1349.9,
+      "discount_price": 1160.9,
+      "main_image": "./products_images/micromatelasse_velute_main.jpg",
+      "image_2": "./products_images/micromatelasse_velute_2.jpg",
+      "image_3": "./products_images/micromatelasse_velute_3.jpg",
+      "image_4": "./products_images/micromatelasse_velute_4.jpg"
+    },
+    {
+      "name": "Kit Colcha Micromatelassê Velute + Jogo de Lençol Percal Margot",
+      "type": "Queen",
+      "color": "rosa",
+      "original_price": 1389.9,
+      "discount_price": 1205.9,
+      "main_image": "./products_images/micromatelasse_velute_main.jpg",
+      "image_2": "./products_images/micromatelasse_velute_2.jpg",
+      "image_3": "./products_images/micromatelasse_velute_3.jpg",
+      "image_4": "./products_images/micromatelasse_velute_4.jpg"
+    },
+    {
+      "name": "Kit Colcha Micromatelassê Velute + Jogo de Lençol Percal Margot",
+      "type": "King",
+      "color": "rosa",
+      "original_price": 1639.9,
+      "discount_price": 1412.9,
+      "main_image": "./products_images/micromatelasse_velute_main.jpg",
+      "image_2": "./products_images/micromatelasse_velute_2.jpg",
+      "image_3": "./products_images/micromatelasse_velute_3.jpg",
+      "image_4": "./products_images/micromatelasse_velute_4.jpg"
+    },
+    {
+      "name": "Jogo de Lençol Dobra Feita Papier + Kit Colcha Matelassê Papier",
+      "type": "Casal",
+      "color": "azul claro",
+      "original_price": 1019.9,
+      "discount_price": 808.9,
+      "main_image": "./products_images/matelasse_papier_main.jpg",
+      "image_2": "./products_images/matelasse_papier_2.webp",
+      "image_3": "./products_images/matelasse_papier_3.jpg",
+      "image_4": "./products_images/matelasse_papier_4.jpg"
+    },
+    {
+      "name": "Jogo de Lençol Dobra Feita Papier + Kit Colcha Matelassê Papier",
+      "type": "Queen",
+      "color": "azul claro",
+      "original_price": 1039.9,
+      "discount_price": 826.9,
+      "main_image": "./products_images/matelasse_papier_main.jpg",
+      "image_2": "./products_images/matelasse_papier_2.webp",
+      "image_3": "./products_images/matelasse_papier_3.jpg",
+      "image_4": "./products_images/matelasse_papier_4.jpg"
+    },
+    {
+      "name": "Kit Capa de Edredom Madras + Jogo de Lençol Percal Daily",
+      "type": "Solteiro Extra",
+      "color": "cinza claro/vermelho",
+      "original_price": 648.9,
+      "discount_price": 538.9,
+      "main_image": "./products_images/percal_daily_main.jpg",
+      "image_2": "./products_images/percal_daily_2.jpg",
+      "image_3": "./products_images/percal_daily_3.jpg",
+      "image_4": "./products_images/percal_daily_4.jpg"
+    },
+    {
+      "name": "Kit Capa de Edredom Madras + Jogo de Lençol Percal Daily",
+      "type": "Casal",
+      "color": "cinza claro/vermelho",
+      "original_price": 859.9,
+      "discount_price": 773.9,
+      "main_image": "./products_images/percal_daily_main.jpg",
+      "image_2": "./products_images/percal_daily_2.jpg",
+      "image_3": "./products_images/percal_daily_3.jpg",
+      "image_4": "./products_images/percal_daily_4.jpg"
+    },
+    {
+      "name": "Kit Capa de Edredom Madras + Jogo de Lençol Percal Daily",
+      "type": "Queen",
+      "color": "cinza claro/vermelho",
+      "original_price": 939.9,
+      "discount_price": 799.9,
+      "main_image": "./products_images/percal_daily_main.jpg",
+      "image_2": "./products_images/percal_daily_2.jpg",
+      "image_3": "./products_images/percal_daily_3.jpg",
+      "image_4": "./products_images/percal_daily_4.jpg"
+    },
+    {
+      "name": "Kit Capa de Edredom Madras + Jogo de Lençol Percal Daily",
+      "type": "King",
+      "color": "cinza claro/vermelho",
+      "original_price": 1089.9,
+      "discount_price": 980.9,
+      "main_image": "./products_images/percal_daily_main.jpg",
+      "image_2": "./products_images/percal_daily_2.jpg",
+      "image_3": "./products_images/percal_daily_3.jpg",
+      "image_4": "./products_images/percal_daily_4.jpg"
+    },
+    {
+      "name": "Edredom Matelassê Dupla Face Marietta + Jogo de Lençol Percal One For All",
+      "type": "Solteiro Extra",
+      "color": "musgo/vinho",
+      "original_price": 678.9,
+      "discount_price": 556.9,
+      "main_image": "./products_images/matelasse_marietta_main.png",
+      "image_2": "./products_images/matelasse_marietta_2.jpg",
+      "image_3": "./products_images/matelasse_marietta_3.jpg",
+      "image_4": "./products_images/matelasse_marietta_4.png"
+    },
+    {
+      "name": "Edredom Matelassê Dupla Face Marietta + Jogo de Lençol Percal One For All",
+      "type": "Casal",
+      "color": "musgo/vinho",
+      "original_price": 808.9,
+      "discount_price": 664.9,
+      "main_image": "./products_images/matelasse_marietta_main.png",
+      "image_2": "./products_images/matelasse_marietta_2.jpg",
+      "image_3": "./products_images/matelasse_marietta_3.jpg",
+      "image_4": "./products_images/matelasse_marietta_4.png"
+    },
+    {
+      "name": "Edredom Matelassê Dupla Face Marietta + Jogo de Lençol Percal One For All",
+      "type": "Queen",
+      "color": "musgo/vinho",
+      "original_price": 898.9,
+      "discount_price": 736.9,
+      "main_image": "./products_images/matelasse_marietta_main.png",
+      "image_2": "./products_images/matelasse_marietta_2.jpg",
+      "image_3": "./products_images/matelasse_marietta_3.jpg",
+      "image_4": "./products_images/matelasse_marietta_4.png"
+    },
+    {
+      "name": "Edredom Matelassê Dupla Face Marietta + Jogo de Lençol Percal One For All",
+      "type": "King",
+      "color": "musgo/vinho",
+      "original_price": 1039.9,
+      "discount_price": 935.9,
+      "main_image": "./products_images/matelasse_marietta_main.png",
+      "image_2": "./products_images/matelasse_marietta_2.jpg",
+      "image_3": "./products_images/matelasse_marietta_3.jpg",
+      "image_4": "./products_images/matelasse_marietta_4.png"
+    },
+    {
+      "name": "Jogo de Lençol Dobra Feita Rhapsody + Kit Colcha Matelassê Rhapsody",
+      "type": "Casal",
+      "color": "bege",
+      "original_price": 1019.9,
+      "discount_price": 917.9,
+      "main_image": "./products_images/matelasse_rhapsody_main.jpg",
+      "image_2": "./products_images/matelasse_rhapsody_2.jpeg",
+      "image_3": "./products_images/matelasse_rhapsody_3.jpeg",
+      "image_4": "./products_images/matelasse_rhapsody_4.jpg"
+    },
+    {
+      "name": "Jogo de Lençol Dobra Feita Rhapsody + Kit Colcha Matelassê Rhapsody",
+      "type": "Queen",
+      "color": "bege",
+      "original_price": 1039.9,
+      "discount_price": 935.9,
+      "main_image": "./products_images/matelasse_rhapsody_main.jpg",
+      "image_2": "./products_images/matelasse_rhapsody_2.jpeg",
+      "image_3": "./products_images/matelasse_rhapsody_3.jpeg",
+      "image_4": "./products_images/matelasse_rhapsody_4.jpg"
+    },
+    {
+      "name": "Jogo de Lençol Dobra Feita Rhapsody + Kit Colcha Matelassê Rhapsody",
+      "type": "King",
+      "color": "bege",
+      "original_price": 728.9,
+      "discount_price": 601.9,
+      "main_image": "./products_images/matelasse_rhapsody_main.jpg",
+      "image_2": "./products_images/matelasse_rhapsody_2.jpeg",
+      "image_3": "./products_images/matelasse_rhapsody_3.jpeg",
+      "image_4": "./products_images/matelasse_rhapsody_4.jpg"
+    },
+    {
+      "name": "Jogo de Lençol Dobra Feita Rhapsody + Capa de Edredom Rhapsody",
+      "type": "Solteiro Extra",
+      "color": "verde/bege",
+      "original_price": 728.9,
+      "discount_price": 601.9,
+      "main_image": "./products_images/dobra_feita_rhapsody_main.jpg",
+      "image_2": "./products_images/dobra_feita_rhapsody_2.jpg",
+      "image_3": "./products_images/dobra_feita_rhapsody_3.jpeg",
+      "image_4": "./products_images/dobra_feita_rhapsody_4.jpeg"
+    },
+    {
+      "name": "Jogo de Lençol Dobra Feita Rhapsody + Capa de Edredom Rhapsody",
+      "type": "Casal",
+      "color": "verde/bege",
+      "original_price": 999.9,
+      "discount_price": 899.9,
+      "main_image": "./products_images/dobra_feita_rhapsody_main.jpg",
+      "image_2": "./products_images/dobra_feita_rhapsody_2.jpg",
+      "image_3": "./products_images/dobra_feita_rhapsody_3.jpeg",
+      "image_4": "./products_images/dobra_feita_rhapsody_4.jpeg"
+    },
+    {
+      "name": "Jogo de Lençol Dobra Feita Rhapsody + Capa de Edredom Rhapsody",
+      "type": "Queen",
+      "color": "verde/bege",
+      "original_price": 1019.9,
+      "discount_price": 917.9,
+      "main_image": "./products_images/dobra_feita_rhapsody_main.jpg",
+      "image_2": "./products_images/dobra_feita_rhapsody_2.jpg",
+      "image_3": "./products_images/dobra_feita_rhapsody_3.jpeg",
+      "image_4": "./products_images/dobra_feita_rhapsody_4.jpeg"
+    },
+    {
+      "name": "Kit Cama Fio Egípcio Twill Dora 7 Peças",
+      "type": "Queen",
+      "color": "bordô",
+      "original_price": 1790.9,
+      "discount_price": 1340.9,
+      "main_image": "./products_images/twill_dora_main.jpg",
+      "image_2": "./products_images/twill_dora_2.jpg",
+      "image_3": "./products_images/twill_dora_3.jpg"
+    },
+    {
+      "name": "Kit Cama Fio Egípcio Twill Dora 7 Peças",
+      "type": "King",
+      "color": "bordô",
+      "original_price": 1990.9,
+      "discount_price": 1490.9,
+      "main_image": "./products_images/twill_dora_main.jpg",
+      "image_2": "./products_images/twill_dora_2.jpg",
+      "image_3": "./products_images/twill_dora_3.jpg"
+    },
+    {
+      "name": "Kit Cama Cetim Fio Egípcio Renê 7 Peças",
+      "type": "King",
+      "color": "azul petróleo",
+      "original_price": 1790.9,
+      "discount_price": 1690.9,
+      "main_image": "./products_images/cetim_rene_main.jpg",
+      "image_2": "./products_images/cetim_rene_2.jpg",
+      "image_3": "./products_images/cetim_rene_3.jpg",
+      "image_4": "./products_images/cetim_rene_4.jpg"
     }
   ]
 }
